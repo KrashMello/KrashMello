@@ -1,6 +1,14 @@
 ### Hi there 👋
+<div>
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=KrashMello&show_icons=true&include_all_commits=true&count_private_true&theme=dracula" />
+  <img heigh="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrashMello&layout=compact&langs_count=8&theme=dracula" />
+   <img heigh="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrashMello&theme=dracula" />
+</div>
+
+[![wakatime](https://wakatime.com/badge/user/018c5de3-9535-4c5b-baf3-b89ab35505be.svg)](https://wakatime.com/@018c5de3-9535-4c5b-baf3-b89ab35505be)
 
 <!--
+
 **KrashMello/KrashMello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
