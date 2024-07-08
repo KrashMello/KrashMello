@@ -7,6 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KrashMello&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://wakatime.com/share/@KrashMello/0c4e0189-da9c-4f79-bf62-83806e070a16.svg" height="300" />
+  <img src="https://wakatime.com/share/@KrashMello/ceb353bd-ea3b-401a-874e-a02f5b25cd9b.svg" height="300" />
+</div>
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/cXlrPENTVkEAAAAj/chika-dance.gif"  />
